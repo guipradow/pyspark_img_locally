@@ -33,7 +33,7 @@ code .
 ```
 <br>
 </br>
-Dentro do VS Code abra o arquivo example.ipynb dentro do diretório notebook, clique no kernel picker e selecione a opção *existing jupyter servers*, cole a URL copiada anteriormente e pressione a tecla enter.
+Dentro do VS Code abra o arquivo example.ipynb dentro do diretório notebook, clique no kernel picker e selecione a opção existing jupyter servers, cole a URL copiada anteriormente e pressione a tecla enter.
 <br>
 </br>
 <img src="img/img1.png">

@@ -13,7 +13,7 @@ Para rodar o pyspark a partir de um servidor remoto, você precisará instalar o
 <br>
 </br>
 
-Com Docker-Desktop e VS Code instalados, execute o Docker-Desktop, e então, no prompt de comando (Windows) ou terminal (Linux e Mac) insira os seguintes comandos, para baixar a imagem e buildar o container docker, respectivamente: 
+Com Docker-Desktop e VS Code instalados, execute o Docker-Desktop, e então, no prompt de comando (Windows) ou terminal (Linux e Mac) insira os seguintes comandos para baixar a imagem e buildar o container docker, respectivamente: 
 ```
 docker pull jupyter/pyspark-notebook:spark-3.3.2
 ```
